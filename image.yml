@@ -8,9 +8,8 @@ summary: |-
 upstream:
   url: https://handbrake.fr/
   version:
-    type: command
-    run: |-
-      curl -sL https://mirror.rackspace.com/archlinux/extra/os/x86_64/extra.db | tar tzf - | awk -F '(-|/)' '/handbrake/ {print $2; exit}'
+    type: arch_package
+    package: handbrake
 
 release:
   branch: master
