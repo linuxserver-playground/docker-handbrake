@@ -10,6 +10,9 @@ upstream:
   version:
     type: arch_package
     package: handbrake
+  notes:
+    type: github_release
+    repo: HandBrake/HandBrake
 
 release:
   branch: master
