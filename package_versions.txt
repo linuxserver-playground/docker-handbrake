@@ -347,10 +347,10 @@ gsettings-desktop-schemas                                                     51
 gsettings-system-schemas                                                      51.0-1                                alpm                             
 gsm                                                                           1.0.17-5.el8                          rpm                              
 gssdp                                                                         1.6.6-1                               alpm                             
-gst-plugins-bad-libs                                                          1.28.9-2                              alpm                             
-gst-plugins-base                                                              1.28.9-2                              alpm                             
-gst-plugins-base-libs                                                         1.28.9-2                              alpm                             
-gstreamer                                                                     1.28.9-2                              alpm                             
+gst-plugins-bad-libs                                                          1.28.9-3                              alpm                             
+gst-plugins-base                                                              1.28.9-3                              alpm                             
+gst-plugins-base-libs                                                         1.28.9-3                              alpm                             
+gstreamer                                                                     1.28.9-3                              alpm                             
 gtest                                                                         1.18.0-1                              alpm                             
 gtk-update-icon-cache                                                         1:4.24.1-1                            alpm                             
 gtk3                                                                          1:3.24.52-2                           alpm                             
@@ -499,7 +499,7 @@ libpaper                                                                      2.
 libpathrs                                                                     0.2.6-1                               alpm                             
 libpcap                                                                       1.11.0-1                              alpm                             
 libpciaccess                                                                  0.19-1                                alpm                             
-libpipewire                                                                   1:1.6.11-1                            alpm                             
+libpipewire                                                                   1:1.6.11-2                            alpm                             
 libpng                                                                        1.6.59-1                              alpm                             
 libppd                                                                        2.1.1-2                               alpm                             
 libproxy                                                                      0.5.12-1                              alpm                             
@@ -651,7 +651,7 @@ pillow                                                                        13
 pinentry                                                                      1.3.3-1                               alpm                             
 pip                                                                           26.2.2                                python                           
 pip                                                                           UNKNOWN                               UnknownPackage                   
-pipewire                                                                      1:1.6.11-1                            alpm                             
+pipewire                                                                      1:1.6.11-2                            alpm                             
 pixelflux                                                                     2.2.1                                 python                           
 pixman                                                                        0.46.4-1                              alpm                             
 pkgconf                                                                       3.0.10-1                              alpm                             
